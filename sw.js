@@ -6,7 +6,7 @@ var urlsToCache = [
     '/css/bootstrap.min.css',
     '/js/jquery.min.js',
     '/js/bootstrap.min.js',
-    // '/offline-page.html'
+    '/offline-page.html'
 ];
 
 /**
