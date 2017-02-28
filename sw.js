@@ -3,10 +3,10 @@ var currentDate = '';
 var CACHES_NAMES = ['v1'];
 
 var urlsToCache = [
-    '/css/bootstrap.min.css',
-    '/js/jquery.min.js',
-    '/js/bootstrap.min.js',
-    '/offline-page.html'
+    '/serviceworker/css/bootstrap.min.css',
+    '/serviceworker/js/jquery.min.js',
+    '/serviceworker/js/bootstrap.min.js',
+    '/serviceworker/offline-page.html'
 ];
 
 /**
